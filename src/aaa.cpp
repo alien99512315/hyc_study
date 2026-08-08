@@ -12,8 +12,8 @@ int main()
     int d=a+b*c;
     int e=(a+b)*c;
     cout<<d<<endl;
-    cout<<e<<endl;
 
+    cout<<"hello";
 
 
     return 0;
