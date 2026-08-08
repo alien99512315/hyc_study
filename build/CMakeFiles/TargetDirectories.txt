@@ -1,0 +1,3 @@
+/home/alien/workspace/hyc_study/build/CMakeFiles/bbb.dir
+/home/alien/workspace/hyc_study/build/CMakeFiles/edit_cache.dir
+/home/alien/workspace/hyc_study/build/CMakeFiles/rebuild_cache.dir
